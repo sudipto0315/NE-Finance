@@ -14,8 +14,8 @@ const MyBanks = async () => {
     <section className='flex'>
       <div className="my-banks">
         <HeaderBox 
-          title="My Bank Accounts"
-          subtext="Effortlessly manage your banking activites."
+          title="My Borrowers"
+          subtext="Effortlessly manage your borrowers."
         />
 
         <div className="space-y-4">
